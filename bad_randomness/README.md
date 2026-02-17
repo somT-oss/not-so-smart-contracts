@@ -1,4 +1,4 @@
-# Bad Randomness
+# Bad Randomnesss
 
 Pseudorandom number generation on the blockchain is generally unsafe. There are a number of reasons for this, including:
 
